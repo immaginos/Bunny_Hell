@@ -1,5 +1,5 @@
 # Bunny_Hell
-A program which simulates lifes of bunnies
+A program which simulates lives of bunnies
 
 Exercise:
 Write a program that creates a linked list of bunny objects.
