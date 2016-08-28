@@ -33,6 +33,7 @@ public:
 	}
 
 protected:
+	~Bunny() {}
 	Bunny() {}
 	virtual std::ostream& print(std::ostream& str)const = 0; //Virtual function used for output formatting 
 
